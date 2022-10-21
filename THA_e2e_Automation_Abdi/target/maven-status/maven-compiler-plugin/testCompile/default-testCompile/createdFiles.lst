@@ -1,0 +1,7 @@
+com\Carepay\Base\BaseClass.class
+com\Carepay\NonBDD\AddProductTest.class
+com\Carepay\TestRunner\Runner.class
+com\Carepay\BDD\StepDefinition\FilterProduct.class
+com\Carepay\BDD\StepDefinition\SearchProduct.class
+com\Carepay\BDD\StepDefinition\RemoveSingleProduct.class
+com\Carepay\BDD\StepDefinition\RemoveMultipleProduct.class
